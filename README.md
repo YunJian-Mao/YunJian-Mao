@@ -1,5 +1,5 @@
-## 大家好，我是毛韵鉴(Barry)，一名来自中国的量化研究员。欢迎来到我的主页！
-### Hello guests, I am YunJian-Mao(Barry), a quantitative researcher in China. Welcome to my homepage!
+## 大家好，我是毛韵鉴(Barry)，一名来自中国的预备役量化研究员。欢迎来到我的主页！
+### Hello guests, I am YunJian-Mao(Barry), a ready-to-go quantitative researcher in China. Welcome to my homepage!
 ### 教育背景/Education Background
 National University of Singapore, Quantitative Finance, Master of Science, 2026-2027
 
